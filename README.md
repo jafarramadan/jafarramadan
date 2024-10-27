@@ -1,56 +1,47 @@
-# Jafar Ramadan 👋
+# Hi there, I'm Jafar Ramadan 👋
 
-## Full Stack Developer
+Aspiring software developer with a strong foundation in web development, specializing in .NET technologies. 
+Proficient in ASP.NET, MVC, SQL, JavaScript, React and Node.js with hands-on experience in full-stack 
+development using Visual Studio. Passionate about continuous learning and innovation in information technology. 
+Holds a bachelor's degree in Software Engineering and eager to contribute to impactful software projects.
 
-Aspiring software developer with a strong foundation in web development, specializing in .NET technologies. Proficient in JavaScript, React, Node.js, ASP.NET, MVC, and SQL, with hands-on experience in full-stack development using Visual Studio. Passionate about continuous learning and innovation in information technology. Holds a bachelor's degree in Software Engineering and eager to contribute to impactful software projects.
-
----
-
-## Experience
-
-**Internship - .NET Full Stack Developer**  
-*Abdul Aziz Al Ghurair School of Advanced Computing, Luminus Life*  
-*March 2024 - November 2024*  
-
-- Completed an intensive C# development course covering foundational and advanced topics including methods, debugging, unit testing, object-oriented programming, data structures, databases, API development, and MVC architecture.
-- Gained practical experience through hands-on projects, including building an ATM system, implementing data structures, developing APIs, and creating e-commerce platforms.
-- Explored complex topics such as authentication, authorization, payment processing, and Unity game development.
 
 ---
 
-## Education
 
-**Bachelor's Degree in Software Engineering**  
-*The World Islamic Science & Education University*  
-*Oct 2019 - Feb 2023*  
-*Very Good Degree*
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JafarRamadan&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" width="45%" /> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JafarRamadan&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+</div>
 
----
-
-## Skills
-
-- **Languages:** JavaScript, C#
-- **Frameworks:** React, ASP.NET, MVC
-- **Tools & Technologies:** Git, SQL, Visual Studio, Ubuntu
-- **Front-End Development:** Proficient in HTML, CSS, JavaScript, and experienced in React for frontend development and deployment.
-- **Back-End Development:** Competent in server building, Node.js, third-party API integration, and databases for CRUD operations.
 
 ---
 
-## Additional Information
-
-- **Languages:** English (Advanced), Arabic (Mother Language)
-- **Nationality:** Jordanian
-- **Date of Birth:** 08/July/2000
-- Completed 80 hours in web development at Princess Sumaya University, Amman.
-- Completed web development from EFE-global.
-- Participated in a .NET Full Stack Developer course from CodeFellows.
-- Engaged in discussions on ethics and open-source contributions.
+### 🛠️ Technologies & Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MVC-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-API_Integration-00ADD8?style=flat&logo=api&logoColor=white" />
+</div>
 
 ---
 
-## Connect with Me
+### 📬 Connect with Me
+<div align="center">
+  <a href="https://github.com/jafarramadan"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jafar-ramadan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jafarmramadan@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</div>
 
-[GitHub](https://github.com/jafarramadan)  
-[LinkedIn](https://www.linkedin.com/in/jafar-ramadan/)  
-[Email](jafarmramadan@gmail.com)
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JafarRamadan&color=brightgreen" alt="Visitor Count" />
+</div>
