@@ -1,6 +1,6 @@
 # Hi there, I'm Jafar Ramadan 👋
 
-Aspiring software developer with a strong foundation in web development, specializing in .NET technologies. 
+software developer with a strong foundation in web development, specializing in .NET technologies. 
 Proficient in ASP.NET, MVC, SQL, JavaScript, React and Node.js with hands-on experience in full-stack 
 development using Visual Studio. Passionate about continuous learning and innovation in information technology. 
 Holds a bachelor's degree in Software Engineering and eager to contribute to impactful software projects.
